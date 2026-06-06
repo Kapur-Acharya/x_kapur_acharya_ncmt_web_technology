@@ -35,3 +35,5 @@ Open `index.html` in any modern web browser. No setup or installation required.
 ## Tested On
 - Chrome / Firefox / Edge
 - Mobile and desktop screen sizes
+## Live Preview
+- https://kapur-acharya.github.io/a1_html_css_basics/
